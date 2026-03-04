@@ -5,8 +5,7 @@
 *A little dreamer of big ideas.*
 
 ---
-I just love coding.
----
+ 
 
  
  
