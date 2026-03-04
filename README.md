@@ -14,7 +14,4 @@ just to make them spin in interesting directions.
 ---
 
 *“You can always rely on your Proponent.”*
-
-Discord: твой_ник#0000
-
-</div>
+ 
