@@ -1,16 +1,13 @@
-## Hi there 👋
+# Proponent
 
-<!--
-**JJProponent/JJProponent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> A little dreamer of big ideas.
 
-Here are some ideas to get you started:
+I turn "what if" into "what's next" — usually with help, always with curiosity.  
+Not here to reinvent wheels, just to make them spin in interesting directions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+*“You can always rely on your Proponent.”*
+
+Reach out:
+Discord: твой_ник#0000
